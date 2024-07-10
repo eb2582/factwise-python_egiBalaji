@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "EGI Balaji",
+      "email": "egiBalaji@gmail.com",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "balaji2",
+      "email": "balaji2@gmail.com",
+      "role": "member"
+    }
+  ]
+}

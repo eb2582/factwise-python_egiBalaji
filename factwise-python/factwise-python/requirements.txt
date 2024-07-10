@@ -1,0 +1,6 @@
+#Add the project dependencies to this file
+
+# Flask for API development
+Flask==1.1.2
+# Pytest for testing
+pytest==7.4.4

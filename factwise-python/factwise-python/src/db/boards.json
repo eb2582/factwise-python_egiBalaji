@@ -1,0 +1,10 @@
+{
+  "boards": [
+    {
+      "id": 1,
+      "name": "factwise-Board",
+      "team_id": 1,
+      "tasks": [1, 2]
+    }
+  ]
+}
